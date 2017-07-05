@@ -1,0 +1,1474 @@
+[Network] - Network Status: Active with Internet Access
+{
+  city :
+  {
+    country : CA
+    id : 6077243
+    coord :
+    {
+      lat : 45.5088
+      lon : -73.5879
+    }
+    name : Montreal
+  }
+  message : 0.0056
+  list :
+  [
+    {
+      clouds :
+      {
+        all : 56
+      }
+      rain :
+      {
+        3h : 0.025
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-04 12:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 500
+          icon : 10d
+          description : light rain
+        }
+      ]
+      dt : 1499169600
+      main :
+      {
+        temp_kf : -0.14
+        temp : 289.72
+        grnd_level : 1025.36
+        temp_max : 289.858
+        sea_level : 1032.28
+        humidity : 91
+        pressure : 1025.36
+        temp_min : 289.72
+      }
+      wind :
+      {
+        speed : 2.31
+        deg : 301.001
+      }
+    }
+    {
+      clouds :
+      {
+        all : 76
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-04 15:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 803
+          icon : 04d
+          description : broken clouds
+        }
+      ]
+      dt : 1499180400
+      main :
+      {
+        temp_kf : -0.11
+        temp : 293.48
+        grnd_level : 1025.74
+        temp_max : 293.585
+        sea_level : 1032.68
+        humidity : 99
+        pressure : 1025.74
+        temp_min : 293.48
+      }
+      wind :
+      {
+        speed : 1.86
+        deg : 292.508
+      }
+    }
+    {
+      clouds :
+      {
+        all : 76
+      }
+      rain :
+      {
+        3h : 0.39
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-04 18:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 500
+          icon : 10d
+          description : light rain
+        }
+      ]
+      dt : 1499191200
+      main :
+      {
+        temp_kf : -0.07
+        temp : 292.33
+        grnd_level : 1025.72
+        temp_max : 292.405
+        sea_level : 1032.47
+        humidity : 95
+        pressure : 1025.72
+        temp_min : 292.33
+      }
+      wind :
+      {
+        speed : 2.02
+        deg : 268.007
+      }
+    }
+    {
+      clouds :
+      {
+        all : 0
+      }
+      rain :
+      {
+        3h : 0.01
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-04 21:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 500
+          icon : 10d
+          description : light rain
+        }
+      ]
+      dt : 1499202000
+      main :
+      {
+        temp_kf : -0.04
+        temp : 295.31
+        grnd_level : 1025.31
+        temp_max : 295.344
+        sea_level : 1032.1
+        humidity : 90
+        pressure : 1025.31
+        temp_min : 295.31
+      }
+      wind :
+      {
+        speed : 1.97
+        deg : 252.502
+      }
+    }
+    {
+      clouds :
+      {
+        all : 48
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-05 00:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 802
+          icon : 03n
+          description : scattered clouds
+        }
+      ]
+      dt : 1499212800
+      main :
+      {
+        temp_kf : 0
+        temp : 294.422
+        grnd_level : 1025.83
+        temp_max : 294.422
+        sea_level : 1032.81
+        humidity : 84
+        pressure : 1025.83
+        temp_min : 294.422
+      }
+      wind :
+      {
+        speed : 1.41
+        deg : 276.002
+      }
+    }
+    {
+      clouds :
+      {
+        all : 0
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-05 03:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 01n
+          description : clear sky
+        }
+      ]
+      dt : 1499223600
+      main :
+      {
+        temp_kf : 0
+        temp : 291.243
+        grnd_level : 1027.32
+        temp_max : 291.243
+        sea_level : 1034.42
+        humidity : 70
+        pressure : 1027.32
+        temp_min : 291.243
+      }
+      wind :
+      {
+        speed : 2.72
+        deg : 324.02
+      }
+    }
+    {
+      clouds :
+      {
+        all : 0
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-05 06:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 01n
+          description : clear sky
+        }
+      ]
+      dt : 1499234400
+      main :
+      {
+        temp_kf : 0
+        temp : 287.412
+        grnd_level : 1027.83
+        temp_max : 287.412
+        sea_level : 1034.9
+        humidity : 85
+        pressure : 1027.83
+        temp_min : 287.412
+      }
+      wind :
+      {
+        speed : 1.22
+        deg : 312.501
+      }
+    }
+    {
+      clouds :
+      {
+        all : 0
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-05 09:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 01n
+          description : clear sky
+        }
+      ]
+      dt : 1499245200
+      main :
+      {
+        temp_kf : 0
+        temp : 286.03
+        grnd_level : 1028.71
+        temp_max : 286.03
+        sea_level : 1035.75
+        humidity : 85
+        pressure : 1028.71
+        temp_min : 286.03
+      }
+      wind :
+      {
+        speed : 1.21
+        deg : 298.002
+      }
+    }
+    {
+      clouds :
+      {
+        all : 0
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-05 12:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 01d
+          description : clear sky
+        }
+      ]
+      dt : 1499256000
+      main :
+      {
+        temp_kf : 0
+        temp : 292.54
+        grnd_level : 1029.85
+        temp_max : 292.54
+        sea_level : 1036.8
+        humidity : 84
+        pressure : 1029.85
+        temp_min : 292.54
+      }
+      wind :
+      {
+        speed : 1.91
+        deg : 287.509
+      }
+    }
+    {
+      clouds :
+      {
+        all : 0
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-05 15:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 01d
+          description : clear sky
+        }
+      ]
+      dt : 1499266800
+      main :
+      {
+        temp_kf : 0
+        temp : 296.417
+        grnd_level : 1030.21
+        temp_max : 296.417
+        sea_level : 1037.21
+        humidity : 90
+        pressure : 1030.21
+        temp_min : 296.417
+      }
+      wind :
+      {
+        speed : 1.87
+        deg : 224.002
+      }
+    }
+    {
+      clouds :
+      {
+        all : 0
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-05 18:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 01d
+          description : clear sky
+        }
+      ]
+      dt : 1499277600
+      main :
+      {
+        temp_kf : 0
+        temp : 297.531
+        grnd_level : 1029.34
+        temp_max : 297.531
+        sea_level : 1036.16
+        humidity : 84
+        pressure : 1029.34
+        temp_min : 297.531
+      }
+      wind :
+      {
+        speed : 2.27
+        deg : 213.501
+      }
+    }
+    {
+      clouds :
+      {
+        all : 0
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-05 21:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 01d
+          description : clear sky
+        }
+      ]
+      dt : 1499288400
+      main :
+      {
+        temp_kf : 0
+        temp : 297.753
+        grnd_level : 1028.24
+        temp_max : 297.753
+        sea_level : 1035.03
+        humidity : 73
+        pressure : 1028.24
+        temp_min : 297.753
+      }
+      wind :
+      {
+        speed : 2.66
+        deg : 218.506
+      }
+    }
+    {
+      clouds :
+      {
+        all : 0
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-06 00:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 01n
+          description : clear sky
+        }
+      ]
+      dt : 1499299200
+      main :
+      {
+        temp_kf : 0
+        temp : 295.438
+        grnd_level : 1027.28
+        temp_max : 295.438
+        sea_level : 1034.23
+        humidity : 82
+        pressure : 1027.28
+        temp_min : 295.438
+      }
+      wind :
+      {
+        speed : 1.42
+        deg : 185.01
+      }
+    }
+    {
+      clouds :
+      {
+        all : 24
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-06 03:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 801
+          icon : 02n
+          description : few clouds
+        }
+      ]
+      dt : 1499310000
+      main :
+      {
+        temp_kf : 0
+        temp : 289.976
+        grnd_level : 1027.11
+        temp_max : 289.976
+        sea_level : 1034.08
+        humidity : 83
+        pressure : 1027.11
+        temp_min : 289.976
+      }
+      wind :
+      {
+        speed : 1.21
+        deg : 109.004
+      }
+    }
+    {
+      clouds :
+      {
+        all : 48
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-06 06:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 802
+          icon : 03n
+          description : scattered clouds
+        }
+      ]
+      dt : 1499320800
+      main :
+      {
+        temp_kf : 0
+        temp : 289.31
+        grnd_level : 1026.05
+        temp_max : 289.31
+        sea_level : 1033.1
+        humidity : 81
+        pressure : 1026.05
+        temp_min : 289.31
+      }
+      wind :
+      {
+        speed : 1.51
+        deg : 74.5024
+      }
+    }
+    {
+      clouds :
+      {
+        all : 68
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-06 09:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 803
+          icon : 04n
+          description : broken clouds
+        }
+      ]
+      dt : 1499331600
+      main :
+      {
+        temp_kf : 0
+        temp : 288.413
+        grnd_level : 1025.06
+        temp_max : 288.413
+        sea_level : 1032.07
+        humidity : 84
+        pressure : 1025.06
+        temp_min : 288.413
+      }
+      wind :
+      {
+        speed : 1.31
+        deg : 146.501
+      }
+    }
+    {
+      clouds :
+      {
+        all : 92
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-06 12:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 804
+          icon : 04d
+          description : overcast clouds
+        }
+      ]
+      dt : 1499342400
+      main :
+      {
+        temp_kf : 0
+        temp : 293.41
+        grnd_level : 1024.52
+        temp_max : 293.41
+        sea_level : 1031.46
+        humidity : 88
+        pressure : 1024.52
+        temp_min : 293.41
+      }
+      wind :
+      {
+        speed : 1.67
+        deg : 170.503
+      }
+    }
+    {
+      clouds :
+      {
+        all : 68
+      }
+      rain :
+      {
+        3h : 0.03
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-06 15:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 500
+          icon : 10d
+          description : light rain
+        }
+      ]
+      dt : 1499353200
+      main :
+      {
+        temp_kf : 0
+        temp : 295.97
+        grnd_level : 1023.56
+        temp_max : 295.97
+        sea_level : 1030.36
+        humidity : 90
+        pressure : 1023.56
+        temp_min : 295.97
+      }
+      wind :
+      {
+        speed : 1.86
+        deg : 185.5
+      }
+    }
+    {
+      clouds :
+      {
+        all : 92
+      }
+      rain :
+      {
+        3h : 1.69
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-06 18:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 500
+          icon : 10d
+          description : light rain
+        }
+      ]
+      dt : 1499364000
+      main :
+      {
+        temp_kf : 0
+        temp : 294.234
+        grnd_level : 1022.23
+        temp_max : 294.234
+        sea_level : 1028.91
+        humidity : 100
+        pressure : 1022.23
+        temp_min : 294.234
+      }
+      wind :
+      {
+        speed : 3.97
+        deg : 219.501
+      }
+    }
+    {
+      clouds :
+      {
+        all : 36
+      }
+      rain :
+      {
+        3h : 0.77
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-06 21:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 500
+          icon : 10d
+          description : light rain
+        }
+      ]
+      dt : 1499374800
+      main :
+      {
+        temp_kf : 0
+        temp : 296.305
+        grnd_level : 1019.94
+        temp_max : 296.305
+        sea_level : 1026.75
+        humidity : 100
+        pressure : 1019.94
+        temp_min : 296.305
+      }
+      wind :
+      {
+        speed : 3.31
+        deg : 194.503
+      }
+    }
+    {
+      clouds :
+      {
+        all : 92
+      }
+      rain :
+      {
+        3h : 0.06
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-07 00:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 500
+          icon : 10n
+          description : light rain
+        }
+      ]
+      dt : 1499385600
+      main :
+      {
+        temp_kf : 0
+        temp : 296.974
+        grnd_level : 1018.29
+        temp_max : 296.974
+        sea_level : 1025.3
+        humidity : 80
+        pressure : 1018.29
+        temp_min : 296.974
+      }
+      wind :
+      {
+        speed : 3.66
+        deg : 210.501
+      }
+    }
+    {
+      clouds :
+      {
+        all : 92
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-07 03:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 804
+          icon : 04n
+          description : overcast clouds
+        }
+      ]
+      dt : 1499396400
+      main :
+      {
+        temp_kf : 0
+        temp : 296.071
+        grnd_level : 1017.15
+        temp_max : 296.071
+        sea_level : 1024.09
+        humidity : 79
+        pressure : 1017.15
+        temp_min : 296.071
+      }
+      wind :
+      {
+        speed : 4.22
+        deg : 204.5
+      }
+    }
+    {
+      clouds :
+      {
+        all : 36
+      }
+      rain :
+      {
+        3h : 0.67
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-07 06:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 500
+          icon : 10n
+          description : light rain
+        }
+      ]
+      dt : 1499407200
+      main :
+      {
+        temp_kf : 0
+        temp : 294.783
+        grnd_level : 1015.06
+        temp_max : 294.783
+        sea_level : 1022.02
+        humidity : 85
+        pressure : 1015.06
+        temp_min : 294.783
+      }
+      wind :
+      {
+        speed : 4.37
+        deg : 202.001
+      }
+    }
+    {
+      clouds :
+      {
+        all : 92
+      }
+      rain :
+      {
+        3h : 6.07
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-07 09:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 501
+          icon : 10n
+          description : moderate rain
+        }
+      ]
+      dt : 1499418000
+      main :
+      {
+        temp_kf : 0
+        temp : 292.837
+        grnd_level : 1014.6
+        temp_max : 292.837
+        sea_level : 1021.24
+        humidity : 94
+        pressure : 1014.6
+        temp_min : 292.837
+      }
+      wind :
+      {
+        speed : 2.76
+        deg : 195.001
+      }
+    }
+    {
+      clouds :
+      {
+        all : 92
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-07 12:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 804
+          icon : 04d
+          description : overcast clouds
+        }
+      ]
+      dt : 1499428800
+      main :
+      {
+        temp_kf : 0
+        temp : 295.64
+        grnd_level : 1012.79
+        temp_max : 295.64
+        sea_level : 1019.57
+        humidity : 88
+        pressure : 1012.79
+        temp_min : 295.64
+      }
+      wind :
+      {
+        speed : 4.47
+        deg : 229.503
+      }
+    }
+    {
+      clouds :
+      {
+        all : 92
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-07 15:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 804
+          icon : 04d
+          description : overcast clouds
+        }
+      ]
+      dt : 1499439600
+      main :
+      {
+        temp_kf : 0
+        temp : 297.567
+        grnd_level : 1011.71
+        temp_max : 297.567
+        sea_level : 1018.27
+        humidity : 88
+        pressure : 1011.71
+        temp_min : 297.567
+      }
+      wind :
+      {
+        speed : 5.76
+        deg : 227.507
+      }
+    }
+    {
+      clouds :
+      {
+        all : 92
+      }
+      rain :
+      {
+        3h : 0.4
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-07 18:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 500
+          icon : 10d
+          description : light rain
+        }
+      ]
+      dt : 1499450400
+      main :
+      {
+        temp_kf : 0
+        temp : 296.645
+        grnd_level : 1009.69
+        temp_max : 296.645
+        sea_level : 1016.54
+        humidity : 90
+        pressure : 1009.69
+        temp_min : 296.645
+      }
+      wind :
+      {
+        speed : 6.2
+        deg : 219.501
+      }
+    }
+    {
+      clouds :
+      {
+        all : 92
+      }
+      rain :
+      {
+        3h : 4.09
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-07 21:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 501
+          icon : 10d
+          description : moderate rain
+        }
+      ]
+      dt : 1499461200
+      main :
+      {
+        temp_kf : 0
+        temp : 295.049
+        grnd_level : 1008.15
+        temp_max : 295.049
+        sea_level : 1014.94
+        humidity : 96
+        pressure : 1008.15
+        temp_min : 295.049
+      }
+      wind :
+      {
+        speed : 5.49
+        deg : 212.505
+      }
+    }
+    {
+      clouds :
+      {
+        all : 92
+      }
+      rain :
+      {
+        3h : 5.3
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-08 00:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 501
+          icon : 10n
+          description : moderate rain
+        }
+      ]
+      dt : 1499472000
+      main :
+      {
+        temp_kf : 0
+        temp : 292.872
+        grnd_level : 1007.63
+        temp_max : 292.872
+        sea_level : 1014.35
+        humidity : 100
+        pressure : 1007.63
+        temp_min : 292.872
+      }
+      wind :
+      {
+        speed : 4.4
+        deg : 252
+      }
+    }
+    {
+      clouds :
+      {
+        all : 44
+      }
+      rain :
+      {
+        3h : 6.5
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-08 03:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 501
+          icon : 10n
+          description : moderate rain
+        }
+      ]
+      dt : 1499482800
+      main :
+      {
+        temp_kf : 0
+        temp : 291.932
+        grnd_level : 1008.05
+        temp_max : 291.932
+        sea_level : 1014.92
+        humidity : 94
+        pressure : 1008.05
+        temp_min : 291.932
+      }
+      wind :
+      {
+        speed : 3.42
+        deg : 284.513
+      }
+    }
+    {
+      clouds :
+      {
+        all : 8
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-08 06:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 02n
+          description : clear sky
+        }
+      ]
+      dt : 1499493600
+      main :
+      {
+        temp_kf : 0
+        temp : 291.08
+        grnd_level : 1008.35
+        temp_max : 291.08
+        sea_level : 1015.28
+        humidity : 94
+        pressure : 1008.35
+        temp_min : 291.08
+      }
+      wind :
+      {
+        speed : 4.27
+        deg : 313.009
+      }
+    }
+    {
+      clouds :
+      {
+        all : 8
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : n
+      }
+      dt_txt : 2017-07-08 09:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 02n
+          description : clear sky
+        }
+      ]
+      dt : 1499504400
+      main :
+      {
+        temp_kf : 0
+        temp : 288.911
+        grnd_level : 1009.95
+        temp_max : 288.911
+        sea_level : 1016.79
+        humidity : 92
+        pressure : 1009.95
+        temp_min : 288.911
+      }
+      wind :
+      {
+        speed : 4.75
+        deg : 324.502
+      }
+    }
+    {
+      clouds :
+      {
+        all : 80
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-08 12:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 803
+          icon : 04d
+          description : broken clouds
+        }
+      ]
+      dt : 1499515200
+      main :
+      {
+        temp_kf : 0
+        temp : 290.231
+        grnd_level : 1012.38
+        temp_max : 290.231
+        sea_level : 1019.28
+        humidity : 94
+        pressure : 1012.38
+        temp_min : 290.231
+      }
+      wind :
+      {
+        speed : 4.39
+        deg : 310
+      }
+    }
+    {
+      clouds :
+      {
+        all : 24
+      }
+      rain :
+      {
+        3h : 0.01
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-08 15:00:00
+      weather :
+      [
+        {
+          main : Rain
+          id : 500
+          icon : 10d
+          description : light rain
+        }
+      ]
+      dt : 1499526000
+      main :
+      {
+        temp_kf : 0
+        temp : 292.216
+        grnd_level : 1013.85
+        temp_max : 292.216
+        sea_level : 1020.89
+        humidity : 86
+        pressure : 1013.85
+        temp_min : 292.216
+      }
+      wind :
+      {
+        speed : 5.11
+        deg : 314.001
+      }
+    }
+    {
+      clouds :
+      {
+        all : 12
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-08 18:00:00
+      weather :
+      [
+        {
+          main : Clouds
+          id : 801
+          icon : 02d
+          description : few clouds
+        }
+      ]
+      dt : 1499536800
+      main :
+      {
+        temp_kf : 0
+        temp : 293.894
+        grnd_level : 1014.6
+        temp_max : 293.894
+        sea_level : 1021.49
+        humidity : 82
+        pressure : 1014.6
+        temp_min : 293.894
+      }
+      wind :
+      {
+        speed : 5.65
+        deg : 304.001
+      }
+    }
+    {
+      clouds :
+      {
+        all : 8
+      }
+      rain :
+      {
+      }
+      sys :
+      {
+        pod : d
+      }
+      dt_txt : 2017-07-08 21:00:00
+      weather :
+      [
+        {
+          main : Clear
+          id : 800
+          icon : 02d
+          description : clear sky
+        }
+      ]
+      dt : 1499547600
+      main :
+      {
+        temp_kf : 0
+        temp : 294.698
+        grnd_level : 1015.41
+        temp_max : 294.698
+        sea_level : 1022.34
+        humidity : 73
+        pressure : 1015.41
+        temp_min : 294.698
+      }
+      wind :
+      {
+        speed : 5.71
+        deg : 290.5
+      }
+    }
+  ]
+  cod : 200
+  cnt : 36
+}
